@@ -13,4 +13,4 @@ week1_3:https://github.com/Bonaganisaicharan/DAA_2203A51550/blob/main/WEEK1_3_KJ
 
 week2:https://github.com/Bonaganisaicharan/DAA_2203A51550/blob/main/WEEK2_3_KJ_DAA%20Ass.c
 
-binary serach:
+binary serach:https://github.com/Bonaganisaicharan/DAA_2203A51550/blob/main/binary%20serach.c
