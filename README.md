@@ -16,3 +16,5 @@ week2:https://github.com/Bonaganisaicharan/DAA_2203A51550/blob/main/WEEK2_3_KJ_D
 binary serach:https://github.com/Bonaganisaicharan/DAA_2203A51550/blob/main/binary%20serach.c
 
 binary serach1:https://github.com/Bonaganisaicharan/DAA_2203A51550/blob/main/binary%20serach1.c
+
+merge sort:https://github.com/Bonaganisaicharan/DAA_2203A51550/blob/main/MERGE%20SORT.c
